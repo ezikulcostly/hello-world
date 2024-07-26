@@ -1,3 +1,4 @@
 Hello world
 I'm Ezekiel Michael
-love learning ne things
+love learning new things
+I love codding
